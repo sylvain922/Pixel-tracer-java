@@ -1,0 +1,16 @@
+scene/IdGeneratorTest.class
+shape/SquareTest.class
+pixel/BresenhamRasterizerTest.class
+app/CommandExecutorTest.class
+app/PixelTracerAppTest.class
+shape/CurveTest.class
+render/ConsoleRendererTest.class
+scene/LayerTest.class
+shape/LineTest.class
+shape/CircleTest.class
+shape/PointTest.class
+app/CommandParserTest.class
+scene/AreaTest.class
+shape/RectangleTest.class
+shape/PolygonTest.class
+shape/ShapeTest.class

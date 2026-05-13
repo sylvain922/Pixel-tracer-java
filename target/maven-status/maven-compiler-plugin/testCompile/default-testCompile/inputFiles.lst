@@ -1,0 +1,16 @@
+/home/hdd/projets/pixel_tracer_java/test/app/CommandExecutorTest.java
+/home/hdd/projets/pixel_tracer_java/test/app/CommandParserTest.java
+/home/hdd/projets/pixel_tracer_java/test/app/PixelTracerAppTest.java
+/home/hdd/projets/pixel_tracer_java/test/pixel/BresenhamRasterizerTest.java
+/home/hdd/projets/pixel_tracer_java/test/render/ConsoleRendererTest.java
+/home/hdd/projets/pixel_tracer_java/test/scene/AreaTest.java
+/home/hdd/projets/pixel_tracer_java/test/scene/IdGeneratorTest.java
+/home/hdd/projets/pixel_tracer_java/test/scene/LayerTest.java
+/home/hdd/projets/pixel_tracer_java/test/shape/CircleTest.java
+/home/hdd/projets/pixel_tracer_java/test/shape/CurveTest.java
+/home/hdd/projets/pixel_tracer_java/test/shape/LineTest.java
+/home/hdd/projets/pixel_tracer_java/test/shape/PointTest.java
+/home/hdd/projets/pixel_tracer_java/test/shape/PolygonTest.java
+/home/hdd/projets/pixel_tracer_java/test/shape/RectangleTest.java
+/home/hdd/projets/pixel_tracer_java/test/shape/ShapeTest.java
+/home/hdd/projets/pixel_tracer_java/test/shape/SquareTest.java
